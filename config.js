@@ -13,7 +13,7 @@ var config = {
         "爱你",
         "这不是学姐的风格！下面说点实在的",
         "我们的暗号是",
-        "kiss kiss, hug hug, clap your legs",
+        "kiss kiss, hug hug, clap our legs",
         "七夕快乐，想你想你",        
         "From见面疯狂对暗号的小学姐",
     ],
