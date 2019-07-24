@@ -8,6 +8,5 @@ var config = {
         "kiss kiss, hug hug, clap our legs",
         "七夕快乐，想你想你",        
         "From见面疯狂对暗号的小学姐",
-    ],
-    date: "2019-09-27 18:00:0",
+    ], 
 }
